@@ -1,4 +1,4 @@
-# Data shape = (107964,409)
+# Data shape = (107964,29409)
 
 * Code : lstm.py
 
