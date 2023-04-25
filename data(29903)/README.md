@@ -13,3 +13,20 @@ Note:
 3. Output ndarray route : ./np_image_totalunit/multiclass_nactg/image_npy/
 
 > deepinsight_generate_image.py
+
+## Second Step (AlexNet)
+* Code : transfer_alexnet_multiclass_IndexRemark.2022.03.24_no-kmer_recode.py
+
+* Loading data : ndarray from deepinsight_generate_image.py
+
+* Program Output : model performance
+
+Note: 
+1. Data route : ../np_image_totalunit/multiclass_nactg/
+2. Output model performance route: same as code
+3. Line 111 (setting epoch)
+4. Line 251 263 (setting model performance file name)
+
+> transfer_alexnet_multiclass_IndexRemark.2022.03.24_no-kmer_recode.py
+> 
+## Third Step (Shap & AUC & ACC)
