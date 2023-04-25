@@ -22,7 +22,7 @@ Note:
 * Program Output : model performance
 
 Note: 
-1. Data route : ../np_image_totalunit/multiclass_nactg/
+1. Data route : ./np_image_totalunit/multiclass_nactg/
 2. Output model performance route: same as code
 3. Line 111 (setting epoch)
 4. Line 251 263 (setting model performance file name)
@@ -30,3 +30,10 @@ Note:
 > transfer_alexnet_multiclass_IndexRemark.2022.03.24_no-kmer_recode.py
 > 
 ## Third Step (Shap & AUC & ACC)
+* Code : transfer_alexnet_multiclass_IndexRemark.2022.03.24_no-kmer_recode.py
+
+* Program Output : shap & AUC & ACC
+
+Note: 
+1. save weight path : ./models/weights_Multiclass_Covid19(Non-kmer3)_IndexRemark.2022.03.24[NATCG]/
+2. weight name : "weights_Multiclass_Covid19(Non-kmer3)[NACGT].2023.04.20.pt"
