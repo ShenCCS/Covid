@@ -1,6 +1,6 @@
 # Data shape = (107964,409)
 
-* Code : deepinsight_generate_image.py
+* Code : .py
 
 * Loading data : covid data 107694 20230411.csv
 
