@@ -37,5 +37,6 @@ Note:
 Note: 
 1. save weight path : ./models/weights_Multiclass_Covid19(Non-kmer3)_IndexRemark.2022.03.24[NATCG]/
 2. weight name : "weights_Multiclass_Covid19(Non-kmer3)[NACGT].2023.04.20.pt"
+# Shap Error
 
 > transfer_alexnet_multiclass_IndexRemark.2022.03.24_no-kmer_recode.py
