@@ -1,2 +1,0 @@
-# 檔案名稱為 covid data 107694 20230411.csv
-# 資料太大無法上傳，檔案位置在黑色硬碟中的 panshi\Run\code\DatasetCGRD\20221004-covid-data\covid data 107694 20230411.csv
