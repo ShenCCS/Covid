@@ -1,5 +1,5 @@
 # Data shape = (107964,29903)
-## 資料太大無法上傳，程式碼中的路徑都已經寫好，把黑色硬碟中的對應檔案跟程式碼放在一起就可以直接執行
+## 資料太大無法上傳，程式碼中的路徑都已經寫好，所有的資料都在黑色硬碟中的 \panshi\Run\code_sequence_data
 ## First Step (T-SNE)
 * Code : deepinsight_generate_image.py
 
