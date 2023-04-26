@@ -16,5 +16,5 @@ Note: (檔案在黑色硬碟的 panshi\Run\code\DatasetCGRD\20221004-covid-data\
 
 * Program Output : LSTM model performance
 
-Note: (檔案在黑色硬碟的 panshi\Run\code\np_image_totalunit/BA-107694-tsne-binary-perplexity=50-pixel=100/total_seq_array.npy)
+Note: (檔案在黑色硬碟的 panshi\Run\code\np_image_totalunit\BA-107694-tsne-binary-perplexity=50-pixel=100\total_seq_array.npy)
 1. Data route : ./np_image_totalunit/BA-107694-tsne-binary-perplexity=50-pixel=100/total_seq_array.npy
