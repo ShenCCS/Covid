@@ -1,2 +1,0 @@
-# 檔案太大無法上傳
-# 檔案在黑色硬碟的 panshi\Run\code\DatasetCGRD\20221004-covid-data\covid data 107694 20230411
