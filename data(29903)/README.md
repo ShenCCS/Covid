@@ -1,5 +1,6 @@
 # Data shape = (107964,29903)
 ## 資料太大無法上傳，程式碼中的路徑都已經寫好，所有的資料都在黑色硬碟中的 \panshi\Run\code_sequence_data
+## image_transformer.py 要跟程式放在同一個資料夾底下
 ## First Step (T-SNE)
 * Code : deepinsight_generate_image.py
 
