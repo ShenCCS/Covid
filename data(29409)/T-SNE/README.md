@@ -8,7 +8,7 @@
 
 Note: (檔案在黑色硬碟的 panshi\Run\code\DatasetCGRD\20221004-covid-data\covid data 107694 20230411.csv)
 1. Data route : ./DatasetCGRD/20221004-covid-data/covid data 107694 20230411.csv
-
+2. image_transformer.py 要跟程式放在同一個資料夾底下
 
 ## Code : 02_LSTM_process.py
 
@@ -18,3 +18,4 @@ Note: (檔案在黑色硬碟的 panshi\Run\code\DatasetCGRD\20221004-covid-data\
 
 Note: (檔案在黑色硬碟的 panshi\Run\code\np_image_totalunit\BA-107694-tsne-binary-perplexity=50-pixel=100\total_seq_array.npy)
 1. Data route : ./np_image_totalunit/BA-107694-tsne-binary-perplexity=50-pixel=100/total_seq_array.npy
+2. image_transformer.py 要跟程式放在同一個資料夾底下
